@@ -14,8 +14,9 @@ public class Ejercicios_github {
      */
     public static void main(String[] args) {
         System.out.println("Hola soy Jesus Chavez M.");
+        System.out.println("prueba ");
+        System.err.println("nofurula");
     }
     
-    
-    
+        
 }
