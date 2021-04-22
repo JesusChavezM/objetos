@@ -27,6 +27,7 @@ public class Operadores {
         //operador de post incremento (b toma el valor de c)
         //c=b entonces b=b+1
         
+        c=++b;
         
         System.out.println("Valor de c (b++)"+c);
         
